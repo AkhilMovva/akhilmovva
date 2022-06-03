@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akhilmovva" target="blank"><img src="https://img.shields.io/twitter/follow/akhilmovva?logo=twitter&style=for-the-badge" alt="akhilmovva" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [akhilmovva.com](https://akhilmovva.com)
+<!-- - 👨‍💻 All of my projects are available at [akhilmovva.com](https://akhilmovva.com) -->
 
 - 📫 How to reach me **akhilmovva6852@gmail.com**
 
